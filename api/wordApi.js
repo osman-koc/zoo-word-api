@@ -1,7 +1,7 @@
 const express = require('express');
 const fs = require("fs");
 const router = express.Router();
-const filePath = "./data/words.json";
+const filePath = "./db/words.json";
 
 //GET RANDOM WORD
 router.get('/random', function (req, res, next) {
