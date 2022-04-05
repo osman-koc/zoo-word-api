@@ -1,0 +1,27 @@
+{
+  "name": "zoo-word-api",
+  "version": "0.0.1",
+  "description": "related word guessing game api",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osman-koc/zoo-word-api.git"
+  },
+  "keywords": [
+    "zoo",
+    "word",
+    "api"
+  ],
+  "author": "osman-koc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osman-koc/zoo-word-api/issues"
+  },
+  "homepage": "https://github.com/osman-koc/zoo-word-api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
