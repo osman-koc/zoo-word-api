@@ -1,6 +1,6 @@
 # ZOo Word API
 
-Eğlence amaçlı geliştirilen kelime tahmin oyunu API'dır.
+[ZOo Word](https://osman-koc.github.io/zoo-word-game) oyunu için geliştirilmiş NodeJS API. Oyunda tahmini gerçekleştirilen kelimelerle ilgili temel işlemleri yürütür ve kullanıcı skor bilgilerini tutar.
 
 ## Linkler
 
