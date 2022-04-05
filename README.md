@@ -1,6 +1,6 @@
 # ZOo Word API
 
-[ZOo Word](https://osman-koc.github.io/zoo-word-game) oyunu için geliştirilmiş NodeJS API. Oyunda tahmini gerçekleştirilen kelimelerle ilgili temel işlemleri yürütür ve kullanıcı skor bilgilerini tutar.
+[ZOo Word](https://osman-koc.github.io/zoo-word-game) oyunu için geliştirilmiş NodeJS API. Oyunda sorulan kelime sorularıyla ilgili veri yönetimi sağlamaktadır.
 
 ## Linkler
 

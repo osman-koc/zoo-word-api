@@ -1,6 +1,6 @@
 {
   "name": "zoo-word-api",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "related word guessing game api",
   "main": "app.js",
   "scripts": {
