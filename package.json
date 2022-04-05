@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/osman-koc/zoo-word-api#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "fs": "0.0.1-security"
   }
 }
