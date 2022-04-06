@@ -1,6 +1,6 @@
 {
   "name": "zoo-word-api",
-  "version": "0.5.2",
+  "version": "1.0.0",
   "description": "related word guessing game api",
   "main": "app.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/osman-koc/zoo-word-api#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
     "express": "^4.17.3",
     "express-validator": "^6.14.0",
     "fs": "0.0.1-security"
